@@ -7,16 +7,16 @@ This script is meant for the use of NITC students to compute information like CG
 
 ### Step 1: Install the latest version of Python3
 
-'''
+```
 sudo apt-get install python3
 sudo apt-get upgrade python3
-'''
+```
 For Ubuntu
 
-'''
+```
 brew install python
 brew upgrade python
-'''
+```
 For Mac
 
 ### Step 2: Install PIP
@@ -29,9 +29,9 @@ PIP is needed to install the pdftotext package which is used in the script
 
 ### Step 4: Clone the repo
 
-'''
+```
 git clone <clone url>
-'''
+```
 
 ### Step 5: Download your Grade Sheet from DSS
 
@@ -43,9 +43,9 @@ git clone <clone url>
 
 ### Step 5: Run the script
 
-'''
+```
 python3 dssGradeParser.py -p <path_to_grade_card_pdf>
-'''
+```
 
 # What the script provides
 1. SGPA for each semester
