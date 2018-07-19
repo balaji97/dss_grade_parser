@@ -41,7 +41,7 @@ git clone <clone url>
 4. Click 'Show My Results'
 5. Save the pdf to the required directory
 
-### Step 5: Run the script
+### Step 6: Run the script
 
 ```
 python3 dssGradeParser.py -p <path_to_grade_card_pdf>
