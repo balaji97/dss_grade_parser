@@ -66,4 +66,4 @@ If Stack Overflow doesn't solve your issues, you can mail me at balaji.jayasanka
 
 # Disclaimer
 
-I am in no way claiming that the grades calculated by this script are accurate/reliable. Parsing text from PDFs is a very hacky business, and there are a number of ways it could go wrong. The entire logic would fail if DSS decides to slightly alter the format of their PDFs. Also, for now the script only works as intended for cases where all subjects have been passed in the first attempt. So use this tool at your own risk. It is recommended that you verify your grades with more reliable sources before you use them somewhere important. 
+I do not claim that the grades calculated by this script are accurate/reliable. Parsing text from PDFs is very hacky and there are a number of ways it could go wrong. The entire logic would fail if DSS slightly alters the format of their PDFs. Also, for now the script only works for cases where all subjects have been passed in the first attempt. It is recommended that you verify your grades with more reliable sources before you use them somewhere important. 
