@@ -30,7 +30,7 @@ PIP is needed to install the pdftotext package which is used in the script
 ### Step 4: Clone the repo
 
 ```
-git clone <clone url>
+git clone https://github.com/balaji97/dss_grade_parser/
 ```
 
 ### Step 5: Download your Grade Sheet from DSS
